@@ -27,4 +27,26 @@
 ## Commit
 > git commit -m "message"
 
+## Push Code
+> git push origin master
 
+## Pull Code
+> git pull origin master
+
+## Branch (create, delete)
+> git branch develop ( create new branch)
+
+> git checkout -b develop (create and switch)
+
+> git branch -D develop
+
+## Checkout
+> git checkout develop
+
+## Conflict
+
+
+## Stash ()
+> git stash
+
+> git stash apply
