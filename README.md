@@ -49,4 +49,4 @@
 ## Stash ()
 > git stash
 
-> git stash apply
+> git stash don't apply
