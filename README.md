@@ -1,5 +1,5 @@
 ## Initialize
-> git inits hgsjjhfjfdemogit 
+> git inits hgsjjhfjfdemog 
 
 ## Add Origin
 > git remote add origin 'repo url'
