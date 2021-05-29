@@ -1,5 +1,5 @@
 ## Initialize
-> git init
+> git inits
 
 ## Add Origin
 > git remote add origin 'repo url'
